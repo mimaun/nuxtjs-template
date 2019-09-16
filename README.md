@@ -16,10 +16,12 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# lint fix
+$ npm run lintfix --fix
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-=======
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).  
 
 # Reference
 - [Nuxt.js インストール](https://ja.nuxtjs.org/guide/installation/)
